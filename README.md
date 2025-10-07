@@ -38,4 +38,7 @@ You need to have the necessary Python libraries installed and access to the **DR
 
 ```bash
 python drone_enhancer.py
+```
+
+P.S. One can upload whatever files they want and change the final line of the code to the name of the file. 
 
